@@ -1,4 +1,11 @@
-# station208_day_of_disabled
+# station208 37회  장애인의 날
 ![Alt text](/station208.png?raw=true "Optional Title")
 
-2017년 4월 24제 37회 장애인의날   프로젝트
+## 행사내용
+#### 2017년 4월 24제 37회 장애인의날 소액기부 프로젝트
+
+## 행사사진
+![Alt text](/release.jpg?raw=true "Optional Title")
+
+## Built With
+#### openFrameworks
