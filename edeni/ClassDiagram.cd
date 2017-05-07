@@ -1,0 +1,1768 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ofApp" Collapsed="true">
+    <Position X="50.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MCgBAAAAAAAAAAgAAAIAAAAAAiAAAAAAIEAAgCAsAAA=</HashCode>
+      <FileName>src\ofApp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxTrueTypeFontUC" Collapsed="true">
+    <Position X="45" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAEAIAQIiAEgAAQUAACAAAgAAIAUQBAABhDEAABAg=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxTrueTypeFontUC\src\ofxTrueTypeFontUC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxBox2dContactArgs" Collapsed="true">
+    <Position X="52" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2d.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxBox2d" Collapsed="true">
+    <Position X="15.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SogwFAhBCACAhBAgATIQQKBCYAEBEBMIdBABISYUAAY=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2d.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxBox2dBaseShape" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACkQIYAAQoAQBFABAAsBAsAODWAAAQFAAABAgIAEAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dBaseShape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxBox2dCircle" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAgAAAIJBAAAAAAAAAAACIAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dCircle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxBox2dContactListener" Collapsed="true">
+    <Position X="17.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAgAAAAAAAAAAAAAAAAAAAEAAQABAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dContactListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxBox2dConvexPoly" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAEAAgCAAIJgAACgAAAAAQCAAAAAAAABAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dConvexPoly.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxBox2dEdge" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAEIAAEAAAAABAAAAAgBAAAAAACA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dEdge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxBox2dJoint" Collapsed="true">
+    <Position X="53.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEEBAAAAMAAhAAAIAAEACBCIAAAAQAIAAAAACBAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dJoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxBox2dPolygon" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgBEAAGAAQABQAAAAILAUAACAABACAAAABCIAAAgCE=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dPolygon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxBox2dRect" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAAAAAAAwAQAIJAAAAAAABQAABAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dRect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxBox2dRender" Collapsed="true">
+    <Position X="3.5" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBAAAAAAABAAAAAAAAQAAAAAAEAAABALAAAFAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dRender.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QueryCallback" Collapsed="true">
+    <Position X="0.5" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIABAAAAQAAAAAQAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dUtils.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2BroadPhase" Collapsed="true">
+    <Position X="46.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAACCAAAhEAAAQhAAAKAAlAACACgQgggAQBwABII=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2BroadPhase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2DynamicTree" Collapsed="true">
+    <Position X="55.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAQCABCggABAApgAAIhARgAEAAgCAAABAAgQAII=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2DynamicTree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2ChainShape" Collapsed="true">
+    <Position X="0.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCIAAAAgpAAAAAAgGAAAAAAAAAAEAAAAQABACAVAABI=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\Shapes\b2ChainShape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2CircleShape" Collapsed="true">
+    <Position X="3" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEgAAAAAAAACAAQAAACQAAEAgAAABAACAAAABI=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\Shapes\b2CircleShape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2EdgeShape" Collapsed="true">
+    <Position X="5.25" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAgAAAABAAACAACAQAAAAAEAAAAAAAACAAAABI=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\Shapes\b2EdgeShape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2PolygonShape" Collapsed="true">
+    <Position X="7.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEgBACABAAACAAAAAAAAAAEAABAABAACESAgBI=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\Shapes\b2PolygonShape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2Shape" Collapsed="true">
+    <Position X="4" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAgAAAIAAAACAAAAAAAAAAEAAEAAAQACAAAABI=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\Shapes\b2Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2BlockAllocator" Collapsed="true">
+    <Position X="43.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAEAAACAAAAAAAAAAAAAAAIASAAQAAAAABCgAI=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2BlockAllocator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2Draw" Collapsed="true">
+    <Position X="3.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAAAAAAgAAAAIAAAQAAAgAAEAAABAIABABAEBAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Draw.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2GrowableStack&lt;T, N&gt;" Collapsed="true">
+    <Position X="59" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAEAEAQAAAAAAAAAAAACAAAAAAAAAAAQICAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2GrowableStack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2StackAllocator" Collapsed="true">
+    <Position X="48.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABEEAJAAAAgQIAAAAQAAAAAAAIAAAAAAAAAAAI=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2StackAllocator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2Timer" Collapsed="true">
+    <Position X="50.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAIAAABAAAAAAAACAAAAABAAAABAAAAAAAAQA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Timer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2Body" Collapsed="true">
+    <Position X="45" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YSACMQ4YAuSADgDBFxJVgcAWcgIBAVsQEg0BAJRwMIM=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2Body.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2ContactManager" Collapsed="true">
+    <Position X="50.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQBAAAAAAAQgEABAAAAEAAAAIgIAAAg=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2ContactManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2Fixture" Collapsed="true">
+    <Position X="57.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQABQAAgEAEwAAUgQQwQAQAGBEEEMwJCABAAAhhAI=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2Fixture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2Island" Collapsed="true">
+    <Position X="43.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAIAAAAAAAAAAAEAIAEAgIQAAIACgAABAAAoJgBAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2Island.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2World" Collapsed="true">
+    <Position X="52" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QSDBDACMQEAVMEJSQQbAmFgqACgqQUAApBQCACghAKM=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2World.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2DestructionListener" Collapsed="true">
+    <Position X="53.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2WorldCallbacks.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2ContactFilter" Collapsed="true">
+    <Position X="48.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2WorldCallbacks.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2ContactListener" Collapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAABAAAAgAAAgAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2WorldCallbacks.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2QueryCallback" Collapsed="true">
+    <Position X="0.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2WorldCallbacks.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2RayCastCallback" Collapsed="true">
+    <Position X="45" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2WorldCallbacks.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2ChainAndCircleContact" Collapsed="true">
+    <Position X="36.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAABAAEIAAAAAAAgAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2ChainAndCircleContact.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2ChainAndPolygonContact" Collapsed="true">
+    <Position X="38.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAgAAAAJAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2ChainAndPolygonContact.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2CircleContact" Collapsed="true">
+    <Position X="40.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAABAIEAAAAAAAAAAEAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2CircleContact.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2Contact" Collapsed="true">
+    <Position X="22" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAmUIAEVAUjAIUAUABkRAAEJAIVoAEAgBGAAACIA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2Contact.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2ContactSolver" Collapsed="true">
+    <Position X="52" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAACAAgAAAAAEAIAAAABAAAQAoBAAAIAAAYQAAI=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2ContactSolver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2EdgeAndCircleContact" Collapsed="true">
+    <Position X="27.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAABAAgAAAABAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2EdgeAndCircleContact.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2EdgeAndPolygonContact" Collapsed="true">
+    <Position X="29.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAARAgEAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2EdgeAndPolygonContact.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2PolygonAndCircleContact" Collapsed="true">
+    <Position X="31.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAABAAEAAAAAAAAQAACA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2PolygonAndCircleContact.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2PolygonContact" Collapsed="true">
+    <Position X="34" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAgAAAABAAEAAACAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2PolygonContact.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2DistanceJoint" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ISAAAABAgAAgQAYADAQQgCAFQA8QAgEAAAAwYAGAgoA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2DistanceJoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2FrictionJoint" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASQADABAgAAggAaAAAQQgBABAAMAAggIIAgwcAEAAoA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2FrictionJoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2GearJoint" Collapsed="true">
+    <Position X="19.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIBAgkgiIAYCgRURkAANAIYAAgAODEA8BwAGGiA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2GearJoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2Joint" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIABIkAAgAgaAEgAAgRARBABAAkMBAAgAGAYgAIA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2Joint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2MotorJoint" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASQADABAgAAwgCaDAiQAgBABAAIAAggMAFgycAEQAIA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2MotorJoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2MouseJoint" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ISAAAABAgAAgQAaADAQYgCAFQAYQAwkAAAgQAAGAAII=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2MouseJoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2PrismaticJoint" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kXYgEUBEgABgAA4ANIwQkAAByIcAAoAAAIEAYCUgAoE=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2PrismaticJoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2PulleyJoint" Collapsed="true">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAARAgAAqAAYAABQRgAkFAA4AArAAAAAwYAEAAoA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2PulleyJoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2RevoluteJoint" Collapsed="true">
+    <Position X="21.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ETYAEUBEgABgAA4ABAQQwgAFkQcAAoQAAMAwYEUAAoE=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2RevoluteJoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2RopeJoint" Collapsed="true">
+    <Position X="24" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAQBAgAAhAAYAABQQgAQFQA8AAgAAAAAwYAEQAoA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2RopeJoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2WeldJoint" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ISAAAABAgAAgQAYADAQQgGAFAAcQAgEAAIAwYAGAAoA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2WeldJoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2WheelJoint" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ITYAAQBAgABgQAYAATQQwCAFmIcIYpAAAAEAYU0AAoM=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2WheelJoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b2Rope" Collapsed="true">
+    <Position X="46.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAEAAAgIAwAAGAAgAABAAAAIAABgJBAQAAQAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Rope\b2Rope.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="piyush" Collapsed="true">
+    <Position X="48.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAIAAAAAAAJAAYAABEAAAAEBAACEAQAE=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\triangle_impl.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArg" Collapsed="true">
+    <Position X="11.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAIAAAAAAAAAQAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArgInt32" Collapsed="true">
+    <Position X="16" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABEAAAAAAAAAQAQAAAgQAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArgInt" Collapsed="true">
+    <Position X="17.25" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArgInt64" Collapsed="true">
+    <Position X="19.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAQAQAAAAQAAACAAQAAIAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArgFloat" Collapsed="true">
+    <Position X="21.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACADAAAAAAAAAAQAQAAAAQAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArgDouble" Collapsed="true">
+    <Position X="1.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAQAQAAAAQAAACAAAAAAggAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArgString" Collapsed="true">
+    <Position X="3.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAFAAAAAAAAAAQAQAAAAQEAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArgSymbol" Collapsed="true">
+    <Position X="3.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgCBAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArgChar" Collapsed="true">
+    <Position X="6" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIABAAAAAAAAAAQAQAAAAQAAACAAAIAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArgMidiMessage" Collapsed="true">
+    <Position X="15" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAIAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArgBool" Collapsed="true">
+    <Position X="8.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAwAQAAAAQAAACAAAAAAAEAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArgTrigger" Collapsed="true">
+    <Position X="8.25" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAQAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArgTimetag" Collapsed="true">
+    <Position X="19.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArgBlob" Collapsed="true">
+    <Position X="10.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABQAAQAAAAAAQAQAAAAQAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscArgRgbaColor" Collapsed="true">
+    <Position X="12.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAIAAAAAAAAQAQAAAAQAAASAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscBundle" Collapsed="true">
+    <Position X="55.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAEAAABAAAAAAACAAABEAAAAARAAAIBAAAgAAAACAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscBundle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscMessage" Collapsed="true">
+    <Position X="57.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkQCBECIAIAgACAwEDAIACB3EFIhCAIAgyRghgBAQII=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscMessage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscParameterSync" Collapsed="true">
+    <Position X="59" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgBAAAAAAAAAAgAAAAAAAEAAAgAAAAIBAEAAAAEAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscParameterSync.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscReceiver" Collapsed="true">
+    <Position X="12.75" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAALAAIAEAAFAgBAAAAAAAAAgBEEABAAAAgAAAAEQA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscReceiver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ofxOscSender" Collapsed="true">
+    <Position X="43.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQgQIAAAAIAAAgDAAAAQAAgAQAAAAgAAAMgAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscSender.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sun" Collapsed="true">
+    <Position X="48.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Sun.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tpp::Delaunay" Collapsed="true">
+    <Position X="53.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAICAAQEAEAAAg4ABAQAAiAsgAAAAgBioQFgASAAM=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\del_interface.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="reviver::dpoint&lt;NumType, D&gt;" Collapsed="true">
+    <Position X="55.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAQgAAAAAAAAAAEBEEAAAABAABoAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="reviver::InternalNumberType&lt;float&gt;" Collapsed="true">
+    <Position X="45" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="reviver::InternalNumberType&lt;int&gt;" Collapsed="true">
+    <Position X="43.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="reviver::InternalNumberType&lt;double&gt;" Collapsed="true">
+    <Position X="59" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="reviver::InternalNumberType&lt;long&gt;" Collapsed="true">
+    <Position X="57.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::UdpTransmitSocket" Collapsed="true">
+    <Position X="20.25" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\UdpSocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::IpEndpointName" Collapsed="true">
+    <Position X="46.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAABgAAAAAIACAABIAAAgAAAAAAAAAABA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\IpEndpointName.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::NetworkInitializer" Collapsed="true">
+    <Position X="48.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\NetworkingUtils.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::PacketListener" Collapsed="true">
+    <Position X="11.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\PacketListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::TimerListener" Collapsed="true">
+    <Position X="50.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\TimerListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::UdpSocket" Collapsed="true">
+    <Position X="18" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwAAAQBAAIAHAAEgAAIAAQEAAAAAAAABAAAAEAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\UdpSocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::SocketReceiveMultiplexer" Collapsed="true">
+    <Position X="46.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIABBAAAEAAAAAAAEgEAAAADAAQAAAAI=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\UdpSocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::UdpReceiveSocket" Collapsed="true">
+    <Position X="15.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\UdpSocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::UdpListeningReceiveSocket" Collapsed="true">
+    <Position X="18" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAACAAAEAAAAAIAEgAAAAAAAAAAAAAI=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\UdpSocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::MessageMappingOscPacketListener&lt;T&gt;" Collapsed="true">
+    <Position X="10.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\MessageMappingOscPacketListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::Exception" Collapsed="true">
+    <Position X="11.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAACAAAAAAAAAAAAAAAAAAABAAABgAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::OutOfBufferMemoryException" Collapsed="true">
+    <Position X="10.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscOutboundPacketStream.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::BundleNotInProgressException" Collapsed="true">
+    <Position X="12.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscOutboundPacketStream.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::MessageInProgressException" Collapsed="true">
+    <Position X="15" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscOutboundPacketStream.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::MessageNotInProgressException" Collapsed="true">
+    <Position X="17.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscOutboundPacketStream.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::OutboundPacketStream" Collapsed="true">
+    <Position X="46.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgKEEgQAAhAAAAACAAAYCAAQIARAAGAAAAABEBAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscOutboundPacketStream.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::OscPacketListener" Collapsed="true">
+    <Position X="11.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABIAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscPacketListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::MalformedPacketException" Collapsed="true">
+    <Position X="19.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::MalformedMessageException" Collapsed="true">
+    <Position X="21.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::MalformedBundleException" Collapsed="true">
+    <Position X="1.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::WrongArgumentTypeException" Collapsed="true">
+    <Position X="3.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::MissingArgumentException" Collapsed="true">
+    <Position X="6" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::ExcessArgumentException" Collapsed="true">
+    <Position X="8.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::ReceivedPacket" Collapsed="true">
+    <Position X="45" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAgAAAAAAEAABIAEAAAAAEAAAAAABAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::ReceivedBundleElement" Collapsed="true">
+    <Position X="52" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAAgAAAAAAEAAAAAAAAAAAEAAAAAABAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::ReceivedBundleElementIterator" Collapsed="true">
+    <Position X="53.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAIAAAAAAAAQAAAAgAAAAAAACAAAAAgABAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::ReceivedMessageArgument" Collapsed="true">
+    <Position X="57.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACggAAAhCgxJUSCIqBCQAACgQAMLCQAYMAQhCEg=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::ReceivedMessageArgumentIterator" Collapsed="true">
+    <Position X="59" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAQAAAAgAAAAAAACAACAAgABAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::ReceivedMessageArgumentStream" Collapsed="true">
+    <Position X="43.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAABAAAAAAAAgACBAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::ReceivedMessage" Collapsed="true">
+    <Position X="55.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgABIAgAABAAgAEAgIAAAAAgQAAAAAAAAACAAABAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="osc::ReceivedBundle" Collapsed="true">
+    <Position X="50.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABABAAAFAAAAAAAAAAAIAAAACAAAQIAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="__unnamed_struct_05e0_1" Collapsed="true">
+    <Position X="1.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIJAAAAAAAAAQgQAAAAAAAAxQAACCAAQoAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxTrueTypeFontUC\src\ofxTrueTypeFontUC.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0073_1" Collapsed="true">
+    <Position X="11.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dPolygonUtils.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0073_2" Collapsed="true">
+    <Position X="7.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAACgAQAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dPolygonUtils.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="hPoint" Collapsed="true">
+    <Position X="50.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dPolygonUtils.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2EPAxis" Collapsed="true">
+    <Position X="45" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAABAAAAAAAAAAABAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2CollideEdge.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2TempPolygon" Collapsed="true">
+    <Position X="59" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAABAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2CollideEdge.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2ReferenceFace" Collapsed="true">
+    <Position X="59" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAkAAAAAAgAAAQCAAAABAIBAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2CollideEdge.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2EPCollider" Collapsed="true">
+    <Position X="46.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAJQACAeAAAAAQAAgEAAAEAAAAAAEBKAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2CollideEdge.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2SimplexVertex" Collapsed="true">
+    <Position X="52" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAQAAAAAAAAAAAAAAAAAAAAgAAgAAAABAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Distance.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Simplex" Collapsed="true">
+    <Position X="48.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAgAAuAAAAAAIAAAAAAACAAAQQAQAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Distance.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2SeparationFunction" Collapsed="true">
+    <Position X="46.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAABBQAIAIAACgAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2TimeOfImpact.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Pair" Collapsed="true">
+    <Position X="48.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2BroadPhase.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2ContactFeature" Collapsed="true">
+    <Position X="46.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Collision.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2ManifoldPoint" Collapsed="true">
+    <Position X="59" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Collision.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Manifold" Collapsed="true">
+    <Position X="57.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAASAAEAAAAAAAAAAAAACAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Collision.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2WorldManifold" Collapsed="true">
+    <Position X="43.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAACAAAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Collision.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2ClipVertex" Collapsed="true">
+    <Position X="59" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAgA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Collision.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2RayCastInput" Collapsed="true">
+    <Position X="55.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAEAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Collision.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2RayCastOutput" Collapsed="true">
+    <Position X="57.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Collision.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2AABB" Collapsed="true">
+    <Position X="52" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAgAAAIAIAAAAAEBAAABAAAQAAI=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Collision.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2DistanceProxy" Collapsed="true">
+    <Position X="43.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAUABAAIBAAAAAAAAAACAAAAAgAAABAAAAQAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Distance.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2SimplexCache" Collapsed="true">
+    <Position X="50.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAIAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Distance.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2DistanceInput" Collapsed="true">
+    <Position X="57.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAiAAAAAAAAAAIABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Distance.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2DistanceOutput" Collapsed="true">
+    <Position X="59" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Distance.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2TreeNode" Collapsed="true">
+    <Position X="50.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAQAAACAFAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2DynamicTree.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2TOIInput" Collapsed="true">
+    <Position X="45" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAgACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2TimeOfImpact.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2TOIOutput" Collapsed="true">
+    <Position X="46.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAQAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2TimeOfImpact.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2MassData" Collapsed="true">
+    <Position X="43.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\Shapes\b2Shape.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Chunk" Collapsed="true">
+    <Position X="57.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAABAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2BlockAllocator.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Block" Collapsed="true">
+    <Position X="53.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2BlockAllocator.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Color" Collapsed="true">
+    <Position X="43.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAgAAAAAAAAAAAAAoAQABAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Draw.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Vec2" Collapsed="true">
+    <Position X="52" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAABAAEEAgAAQBAAAAAAAAAAABgAAAAAAI=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Math.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Vec3" Collapsed="true">
+    <Position X="53.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAABAAEAAAAAQAAAAAAAAAAAABgAQAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Math.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Mat22" Collapsed="true">
+    <Position X="45" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMABAAAAABAAAAAAQAAAIAAAAAAAAAAAAAAACAgA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Math.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Mat33" Collapsed="true">
+    <Position X="46.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAQAAAAAAAAAAJoAAAAAAAAAgQ=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Math.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Rot" Collapsed="true">
+    <Position X="45" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAABAAAAABAAAAAAAAAAQAAAAIACAAIAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Math.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Transform" Collapsed="true">
+    <Position X="48.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACABAAAAABAAAAAAAAAAAAAAAAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Math.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Sweep" Collapsed="true">
+    <Position X="57.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIQAAAAAAAEABAAACgAAAAAACgAAAQAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Math.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Version" Collapsed="true">
+    <Position X="59" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAIAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Settings.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2StackEntry" Collapsed="true">
+    <Position X="55.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2StackAllocator.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2WorldQueryWrapper" Collapsed="true">
+    <Position X="45" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2World.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2WorldRayCastWrapper" Collapsed="true">
+    <Position X="46.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAACAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2World.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2BodyDef" Collapsed="true">
+    <Position X="55.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAAAAAAAwAgAAAAAEAMAAAAAARAQAAABAAYABAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2Body.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Filter" Collapsed="true">
+    <Position X="48.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAEAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2Fixture.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2FixtureDef" Collapsed="true">
+    <Position X="50.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAACAAAAAAAAAAEAEAAAAQEAAQAAAAAAAAAABAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2Fixture.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2FixtureProxy" Collapsed="true">
+    <Position X="52" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAIAAAAgAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2Fixture.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Profile" Collapsed="true">
+    <Position X="53.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAAAAAAAAAAAAQAAAAAAAkCAAAAAACAAQAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2TimeStep.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2TimeStep" Collapsed="true">
+    <Position X="43.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAABAAAAEAAAAAAAAAAAAABAQEAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2TimeStep.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Position" Collapsed="true">
+    <Position X="50.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2TimeStep.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Velocity" Collapsed="true">
+    <Position X="55.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2TimeStep.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2SolverData" Collapsed="true">
+    <Position X="53.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAIAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2TimeStep.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2ContactImpulse" Collapsed="true">
+    <Position X="48.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAJAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2WorldCallbacks.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2ContactPositionConstraint" Collapsed="true">
+    <Position X="50.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQCUkQAAAAAAAIEAAACAAABAAAAAAAAAAABAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2ContactSolver.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2PositionSolverManifold" Collapsed="true">
+    <Position X="52" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAQAAABAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2ContactSolver.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2ContactRegister" Collapsed="true">
+    <Position X="52" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAABAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2Contact.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2ContactEdge" Collapsed="true">
+    <Position X="45" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAABAAAYAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2Contact.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2VelocityConstraintPoint" Collapsed="true">
+    <Position X="57.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAIAAAABAAAAAAAIAAAAAAAAAAAAAAAQAEAgA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2ContactSolver.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2ContactVelocityConstraint" Collapsed="true">
+    <Position X="55.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACCAARgAAAAAAIEAAgCAQEAAAAAAAAAAIAFAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2ContactSolver.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2ContactSolverDef" Collapsed="true">
+    <Position X="53.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAgABAAAIAAAAAAgAAAAAAAAAAABAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2ContactSolver.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2DistanceJointDef" Collapsed="true">
+    <Position X="10.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAQAQAEABAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2DistanceJoint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2FrictionJointDef" Collapsed="true">
+    <Position X="15" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAQAQAAAAAAAAAAAIAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2FrictionJoint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2GearJointDef" Collapsed="true">
+    <Position X="19.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAACAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2GearJoint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2Jacobian" Collapsed="true">
+    <Position X="53.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAIAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2Joint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2JointEdge" Collapsed="true">
+    <Position X="55.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAABAAAYAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2Joint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2JointDef" Collapsed="true">
+    <Position X="12.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAABAABAAAAAAAAgAAAAAAABAAAAAAAAABAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2Joint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2MotorJointDef" Collapsed="true">
+    <Position X="6" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAQAAAgEAAAAAAAAIAAAgAAQAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2MotorJoint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2MouseJointDef" Collapsed="true">
+    <Position X="8.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAgAAAIAABAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2MouseJoint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2PrismaticJointDef" Collapsed="true">
+    <Position X="12.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIBAAAAAAAQAQCAAAgAAAAAAAAAAABCCAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2PrismaticJoint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2PulleyJointDef" Collapsed="true">
+    <Position X="17.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEyAQAAAAAAAAAAAAAAAAAAAgAAAgAQA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2PulleyJoint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2RevoluteJointDef" Collapsed="true">
+    <Position X="21.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAABAAAAAAAQAQAAAAAAQAQAAAAAAABKCAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2RevoluteJoint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2RopeJointDef" Collapsed="true">
+    <Position X="24" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAgAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2RopeJoint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2WeldJointDef" Collapsed="true">
+    <Position X="1.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAQAgABAAAAAAAAAAAAICAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2WeldJoint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2WheelJointDef" Collapsed="true">
+    <Position X="3.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAQAQAAAJAAAAQAAAAAAAJAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2WheelJoint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="b2RopeDef" Collapsed="true">
+    <Position X="43.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgEAAABAAAABAIAAAAAAIAQAAAAAAAAAAAAABA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Rope\b2Rope.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="triangulateio" Collapsed="true">
+    <Position X="43.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgAAQAaAgDAACgAAAJIAAAgAAAIQAAAAAAgAAGAAAg=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\triangle.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cmp_point2D" Collapsed="true">
+    <Position X="55.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\triangle_impl.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::origin&lt;NumType, D, I&gt;" Collapsed="true">
+    <Position X="48.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::origin&lt;NumType, D, 0&gt;" Collapsed="true">
+    <Position X="50.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::Distance&lt;NumType, D, I&gt;" Collapsed="true">
+    <Position X="57.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::Distance&lt;NumType, D, 0&gt;" Collapsed="true">
+    <Position X="59" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::DotProd&lt;__INT, NumType, D, I&gt;" Collapsed="true">
+    <Position X="43.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::DotProd&lt;__INT, NumType, D, 0&gt;" Collapsed="true">
+    <Position X="45" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::IsEqual&lt;NumType, D, I&gt;" Collapsed="true">
+    <Position X="55.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::IsEqual&lt;NumType, D, 0&gt;" Collapsed="true">
+    <Position X="53.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::Equate&lt;NumType1, NumType2, D, I&gt;" Collapsed="true">
+    <Position X="46.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::Equate&lt;NumType1, NumType2, D, 0&gt;" Collapsed="true">
+    <Position X="48.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::Add&lt;NumType, D, I&gt;" Collapsed="true">
+    <Position X="45" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::Add&lt;NumType, D, 0&gt;" Collapsed="true">
+    <Position X="43.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::Subtract&lt;NumType, D, I&gt;" Collapsed="true">
+    <Position X="53.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::Subtract&lt;NumType, D, 0&gt;" Collapsed="true">
+    <Position X="55.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::Multiply&lt;NumType, D, I&gt;" Collapsed="true">
+    <Position X="43.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="reviver::Multiply&lt;NumType, D, 0&gt;" Collapsed="true">
+    <Position X="45" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\triangle\dpoint.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="osc::AttachedTimerListener" Collapsed="true">
+    <Position X="50.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\win32\UdpSocket.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="osc::BundleInitiator" Collapsed="true">
+    <Position X="52" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="osc::BundleTerminator" Collapsed="true">
+    <Position X="53.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="osc::BeginMessage" Collapsed="true">
+    <Position X="48.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="osc::MessageTerminator" Collapsed="true">
+    <Position X="57.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="osc::NilType" Collapsed="true">
+    <Position X="46.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="osc::InfinitumType" Collapsed="true">
+    <Position X="52" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="osc::RgbaColor" Collapsed="true">
+    <Position X="52" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAQAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="osc::MidiMessage" Collapsed="true">
+    <Position X="59" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAEAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="osc::TimeTag" Collapsed="true">
+    <Position X="59" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="osc::Symbol" Collapsed="true">
+    <Position X="57.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAACAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="osc::Blob" Collapsed="true">
+    <Position X="50.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="osc::ArrayInitiator" Collapsed="true">
+    <Position X="46.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="osc::ArrayTerminator" Collapsed="true">
+    <Position X="48.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="charPropsUC" Collapsed="true">
+    <Position X="1.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxTrueTypeFontUC\src\ofxTrueTypeFontUC.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Segment" Collapsed="true">
+    <Position X="11.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dPolygonUtils.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TriangleShape" Collapsed="true">
+    <Position X="7.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dPolygonUtils.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="CoordType" Collapsed="true">
+    <Position X="45" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\src\ofxBox2dPolygonUtils.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="int8" Collapsed="true">
+    <Position X="55.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Settings.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="int16" Collapsed="true">
+    <Position X="50.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Settings.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="int32" Collapsed="true">
+    <Position X="16.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Settings.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uint8" Collapsed="true">
+    <Position X="48.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Settings.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uint16" Collapsed="true">
+    <Position X="59" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Settings.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uint32" Collapsed="true">
+    <Position X="43.25" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Settings.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="float32" Collapsed="true">
+    <Position X="46.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Settings.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="float64" Collapsed="true">
+    <Position X="48.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Common\b2Settings.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="b2ContactCreateFcn" Collapsed="true">
+    <Position X="22" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2Contact.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="b2ContactDestroyFcn" Collapsed="true">
+    <Position X="43.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Contacts\b2Contact.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ofxOscArgType" Collapsed="true">
+    <Position X="20.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="socklen_t" Collapsed="true">
+    <Position X="57.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\win32\UdpSocket.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="osc::int64" Collapsed="true">
+    <Position X="53.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="osc::uint64" Collapsed="true">
+    <Position X="46.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="osc::int32" Collapsed="true">
+    <Position X="52" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="osc::uint32" Collapsed="true">
+    <Position X="45" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="osc::osc_bundle_element_size_t" Collapsed="true">
+    <Position X="16.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="b2PointState" Collapsed="true">
+    <Position X="50.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAIAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Collision\b2Collision.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="b2BodyType" Collapsed="true">
+    <Position X="45" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\b2Body.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="b2JointType" Collapsed="true">
+    <Position X="46.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAAAAAAAAAAAAAAAAAAGAAAAAAANAAAAQIgAEAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2Joint.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="b2LimitState" Collapsed="true">
+    <Position X="48.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAIAAAAAAAAAAACAAAAAAAAAAAEAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxBox2d\libs\Box2D\Dynamics\Joints\b2Joint.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="_ofxOscArgType" Collapsed="true">
+    <Position X="20.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABABAAQEAAAAgAIgAAAEBJAAAAADAABAAQAgAgA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscArg.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="osc::ValueTypeSizes" Collapsed="true">
+    <Position X="53.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="osc::__unnamed_enum_008b_1" Collapsed="true">
+    <Position X="43.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="osc::TypeTagValues" Collapsed="true">
+    <Position X="52" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAEAAAgABCAAABIAAAAQAAgARBAAABAAEAgAAAAA=</HashCode>
+      <FileName>C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Malgun Gothic" Size="9" />
+</ClassDiagram>
