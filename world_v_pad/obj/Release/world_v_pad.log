@@ -1,0 +1,9 @@
+﻿  ofApp.cpp
+c:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxbox2d\libs\triangle\dpoint.hpp(477): warning C4002: too many actual parameters for macro 'assert'
+     Creating library bin\world_v_pad.lib and object bin\world_v_pad.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  world_v_pad.vcxproj -> C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myApps\world_v_pad\bin\world_v_pad.exe
+  
+  	                   9	C:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\export\vs\Win32\

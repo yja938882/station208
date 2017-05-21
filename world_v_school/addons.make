@@ -1,0 +1,5 @@
+ofxNetwork
+ofxOsc
+ofxVectorGraphics
+ofxBox2d
+ofxTrueTypeFontUC

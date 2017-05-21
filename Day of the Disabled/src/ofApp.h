@@ -16,7 +16,6 @@
 #include "ofxOsc.h"
 #include "../bookIr.h"
 
-
 #define PORT 5001
 #define NUM_MSG_sTRINGS 20
 
