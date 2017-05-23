@@ -36,5 +36,6 @@ Station208
 >> ## 내용
 >> #### 월드비전 "꽃들에게 희망을"  대학교 릴레이 캠페인
 >> #### 연세대(5/17), 한양대(5/23), 서강대(5/24), 이화여대(5/25)
->> ## 행사사진>> ![Alt text](/Pictures/world_v_release2.jpg?raw=true "Optional Title")
+>> ## 행사사진
+>> ![Alt text](/Pictures/world_v_release2.jpg?raw=true "Optional Title")
 
