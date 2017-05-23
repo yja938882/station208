@@ -30,3 +30,4 @@ void CustomParticle::setImage(ofImage img, int w, int h, int r) {
 	rad = r;
 
 }
+

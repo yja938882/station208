@@ -1,2 +1,3 @@
-ofxBox2d
+ofxOsc
 ofxVectorGraphics
+ofxBox2d

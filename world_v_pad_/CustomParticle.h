@@ -5,11 +5,16 @@
 #include "ofxBox2d.h"
 #include "ofMath.h"
 //'1' means #of pad 
-#define PAD_1_W 200 //width
-#define PAD_1_H 200 //height
-#define PAD_1_R 100 //radius
+#define PAD_1_W 170 //width
+#define PAD_1_H 170 //height
+#define PAD_1_R 85 //radius
 #define PAD_1_M 30 //margin
-#define PAD_1_IDLE_MAX 200
+#define PAD_1_IDLE_MAX 100
+
+#define PAD_C_W 170
+#define PAD_C_H 170
+#define PAD_C_R 75
+#define PAD_C_M 30
 
 #define PAD_1_DEF_X  1920 / 2
 #define PAD_1_DEF_Y  1080

@@ -1,10 +1,12 @@
 #pragma once
 
 #include "ofMain.h"
-
+#include "ofxOsc.h"
 #include "ofxBox2d.h"
 #include "../CustomParticle.h"
 #include "../VideoMan.h"
+#define PORT 5001
+
 class ofApp : public ofBaseApp{
 
 	public:
@@ -50,4 +52,15 @@ class ofApp : public ofBaseApp{
 		int type = -1;
 		float idle_deg = 0.0;
 		bool drawProcessing();
+
+
+
+
+		void osc208();
+		ofxOscReceiver receiver;
+
+		float bang;
+		int mbangsw;
+		int abb;//연속뱅 방지
+		int abbco;//연속뱅 방지 카운터
 };

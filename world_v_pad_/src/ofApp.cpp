@@ -3,8 +3,12 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
+	receiver.setup(PORT);
+	bang = 0;
+
+
 	box2d.init();
-	box2d.setGravity(0, 1);
+	box2d.setGravity(0, 5);
 	box2d.createBounds(0,0,1920,1080*2);
 	
 	load();
@@ -13,9 +17,7 @@ void ofApp::setup(){
 
 	ofBackground(255, 255, 255);
 
-	std::cout << "화면 위(1) | 아래(2) | 입력 >";
-	std::cin >> screen;
-	
+
 	vm.playMainVideo();
 }
 void ofApp::load() {
@@ -33,15 +35,18 @@ void ofApp::load() {
 
 	std::cout << "#> load background images ... ";
 	backImage.load("images/back.png");
+
+	
 	
 
 }
 void ofApp::setting() {
 	
-	fbo.allocate(960, 540);
+	fbo.allocate(960, 960);
 	fbo.begin();
-	ofSetColor(0,0,0,70);
-	backImage.draw(0, 0);
+	//ofSetColor(0,0,0,70);
+	ofSetHexColor(0xffffff);
+	backImage.draw(0, 0,960,960);
 	//ofSetColor(255, 255, 255, 100);
 	fbo.end();
 	ofBackground(ofColor::white);
@@ -50,18 +55,37 @@ void ofApp::setting() {
 
 //--------------------------------------------------------------
 void ofApp::update(){
+	ofSetFrameRate(140);
+	osc208();
+	if (bang != 0 && abb == 0) {
+		abb = 1;
+
+		//osc신호가 왔을때 이곳에 입력된 명령이 실행됨.
+		if (processing)return;
+		processing = true;
+
+		vm.playSubVideo();
+		pads.push_back(shared_ptr<CustomParticle>(new CustomParticle));
+		type = (num) % 3;
+		pads.back().get()->setImage(padImages[(num++) % 3], PAD_1_W, PAD_1_H, PAD_1_R);
+
+
+
+	}
+	
+	
+
 	box2d.update();
-	//ofSetFrameRate(30);
+
 	vm.update();
 
 }
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-	if (screen == 2)
-		ofTranslate(0, -1080, 0);
+//	ofTranslate(0, -1080, 0);
 
-	fbo.draw(480, 1080+ 270);
+	fbo.draw((1920-960)/2, 1080+ (1080-960)/2);
 
 	if (processing) {
 		if (drawProcessing()) {
@@ -83,19 +107,27 @@ void ofApp::draw(){
 		}
 		pads[i].get()->drawImage();
 	}
+	if (pads.size() >= 130) {
+		for (int i = 0; i < 30; i++) {
+			pads.pop_back();
+		}
+	}
+	
 	
 }
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
+
+	//osc신호가 왔을때 이곳에 입력된 명령이 실행됨.
 	if (processing)return;
 	processing = true;
 
 	vm.playSubVideo();
 	pads.push_back(shared_ptr<CustomParticle>(new CustomParticle));
 	type = (num) % 3;
-	pads.back().get()->setImage(padImages[(num++)%3], PAD_1_W, PAD_1_H, PAD_1_R);
-	
+	pads.back().get()->setImage(padImages[(num++) % 3], PAD_1_W, PAD_1_H, PAD_1_R);
+	std::cout << "num : " + to_string(pads.size()) + "\n";
 }
 
 //--------------------------------------------------------------
@@ -179,3 +211,31 @@ bool ofApp::drawProcessing() {
 	return false;
 
 }
+
+void ofApp::osc208() {
+
+	bang = 0;
+	while (receiver.hasWaitingMessages()) {
+
+		ofxOscMessage m;
+		receiver.getNextMessage(m);
+
+		for (int i = 0; i < m.getNumArgs(); i++) {
+			if (m.getArgType(i) == OFXOSC_TYPE_FLOAT) {
+				bang = m.getArgAsFloat(0);
+			}
+		}
+	}
+
+	if (mbangsw == 1) {
+		bang = 1;
+	}
+
+	if (abb == 1) {
+		abbco += 1;
+		if (abbco > 610) {
+			abb = 0; abbco = 0;
+		}
+	}
+}
+

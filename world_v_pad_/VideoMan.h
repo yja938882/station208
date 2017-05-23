@@ -7,8 +7,8 @@ class VideoMan
 public:
 	ofVideoPlayer mainPlayer;
 	ofVideoPlayer sub0Player;
-	ofVideoPlayer sub1Player;
-	int sub_index = 0; // play and index up;
+	//ofVideoPlayer sub1Player;
+//	int sub_index = 0; // play and index up;
 
 	VideoMan();
 	~VideoMan();

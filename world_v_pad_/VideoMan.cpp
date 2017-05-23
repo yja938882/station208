@@ -21,8 +21,8 @@ void VideoMan::load() {
 	sub0Player.loadMovie("video/sub0.mp4");
 	std::cout << "complete!\n";
 
-	std::cout << "> load video/sub1.mp4 ...";
-	sub1Player.loadMovie("video/sub1.mp4");
+	//std::cout << "> load video/sub1.mp4 ...";
+	//sub1Player.loadMovie("video/sub1.mp4");
 
 }
 
@@ -34,10 +34,10 @@ void VideoMan::playSubVideo() {
 	mainPlayer.stop();
 	play_main = false;
 
-	if (sub_index == 0)
+	//if (sub_index == 0)
 		sub0Player.play();
-	else if (sub_index == 1)
-		sub1Player.play();
+	//else if (sub_index == 1)
+		//sub1Player.play();
 
 }
 
@@ -46,31 +46,31 @@ void VideoMan::update() {
 		mainPlayer.update();
 	}
 	else {
-		if (sub_index == 0) {
+	//	if (sub_index == 0) {
 			sub0Player.update();
 			if (sub0Player.getPosition() >= 0.99f) {
 				sub0Player.firstFrame();
 				sub0Player.stop();
-				sub_index = 1;
+			//	sub_index = 1;
 
 
 				play_main = true;
 				playMainVideo();
 			}
 		}
-		else if (sub_index == 1) {
-			sub1Player.update();
-			if (sub1Player.getPosition() >= 0.99f) {
-				sub1Player.firstFrame();
-				sub1Player.stop();
-				sub_index = 0;
+		//else if (sub_index == 1) {
+		//	sub1Player.update();
+		//	if (sub1Player.getPosition() >= 0.99f) {
+			////	sub1Player.firstFrame();
+			//	sub1Player.stop();
+			//	sub_index = 0;
 
 
-				play_main = true;
-				playMainVideo();
-			}
-		}
-	}
+			//	play_main = true;
+			//	playMainVideo();
+			//}
+	//	}
+	//}
 }
 
 
@@ -86,10 +86,10 @@ void VideoMan::drawMainVideo() {
 	mainPlayer.draw(0, 0, 1920, 1080);
 }
 void VideoMan::drawSubVideo() {
-	if (sub_index == 0) {
+//	if (sub_index == 0) {
 		sub0Player.draw(0, 0, 1920, 1080);
-	}
-	else if (sub_index==1) {
-		sub1Player.draw(0, 0, 1920, 1080);
-	}
+//	}
+	//else if (sub_index==1) {
+	//	sub1Player.draw(0, 0, 1920, 1080);
+	//}
 }
