@@ -1,7 +1,5 @@
 #include "bookIr.h"
 
-
-
 bookIr::bookIr()
 {
 }
